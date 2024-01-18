@@ -1,0 +1,34 @@
+-> Format:
+    -> Area descriptions are formatted as follows: Area Name:Description|Exit(s)|
+    -> Exits are indicated by the corresponding room number encapsulated within a letter referring to the direction of the room (N->North, S->South, E->East, W->West, U->Upstairs, D->Downstairs)
+    -> Items are placed after the rooms and are formatted as such: Room Number:Item Name:Item Desc
+Front Yard:The entrance to the mansion is adorned with overgrown ivy and mysterious statues that seem to watch your every move.|N|1|N|
+Main Hall:A cavernous space with an ancient chandelier overhead, casting eerie shadows on the walls. Portraits of long-forgotten residents line the corridor.|N|2|N||E|11|E||S|0|S||W|14|W|
+Grand Staircase:A majestic staircase that seems to go on forever, leading to unknown realms within the mansion. Ghostly whispers echo through its ornate railings.|S|1|S||U|3|U|
+Upstairs Hallway:Dimly lit, with countless doors leading to secrets untold. Flickering candle sconces add to the mysterious atmosphere.|N|4|N||E|7|E||W|9|W||D|2|D|
+Master Bedroom:A room frozen in time, with antique furniture draped in dusty sheets. The air feels heavy with the weight of forgotten dreams.|E|5|E||S|3|S||W|6|W|
+Master Bathroom:A luxurious but strangely cold space, adorned with ancient mirrors that reflect more than just your appearance.|W|4|W|
+Walk-In Closet:A collection of elegant, outdated clothing that rustles as if worn by unseen guests. The room seems to have a memory of its own.|E|4|E|
+Girl's Room:Filled with dolls and toys that seem to move when you're not looking. Soft laughter echoes in the air.|N|10|N||E|3|E|
+Girl's Bathroom:A room adorned with pastel tiles and an antique bathtub. Strange symbols are etched into the mirrors.|S|9|S|
+Boy's Room:Posters of adventures and mysteries cover the walls. The air is filled with the scent of nostalgia and the distant sounds of laughter.|N|8|N||W|3|W|
+Boy's Bathroom:A room with a vintage charm, complete with a clawfoot bathtub. Faint echoes of footsteps can be heard.|S|7|S|
+Dining Room:An opulent setting with a long dining table covered in dust. The air carries the faint aroma of a feast long gone.|S|12|S||W|1|W|
+Kitchen:Antique pots and pans hang from the ceiling, and the lingering scent of spices hints at the many meals that once filled this space.|N|11|N||S|13|S|
+Washroom:A small room with a single, ancient washing basin. The sound of dripping water adds to the eerie ambiance.|N|12|N|
+Living Room:Furnished with antique furniture and a grand fireplace, the room feels both inviting and haunted. Shadows dance across the walls.|E|1|E||S|15|S||W|16|W|
+Main Washroom:A vast room with multiple stalls, each one seemingly occupied by unseen guests. The faucets turn on and off of their own accord.|N|14|N|
+Change Room:Filled with mirrors that seem to reflect not just your appearance, but glimpses of the mansion's hidden past.|E|14|E||S|17|S||W|18|W|
+Gun Room:A chamber filled with antique firearms and weapons. The air is tense, as if the spirits of battles long past linger here.|N|16|N||S|19|S|
+Outdoor Pool:A moonlit pool surrounded by overgrown hedges. Strange ripples disturb the water's surface, though no one is in sight.|E|16|E|
+Gun Range:A dimly lit room with bullet-ridden targets that seem to move when you're not aiming at them. The distant echo of gunfire reverberates mysteriously.|N|19|N|
+1:Fading Portrait:A centuries-old portrait that seems to change subtly when you're not looking. The subject's eyes follow you as you move through the Main Hall.
+2:Candelabra of Whispers:A twisted, silver candelabra that emits faint whispers as the candles flicker. The words are unintelligible, yet hauntingly persistent.
+4:Antique Music Box:An ornate music box with an ethereal melody that plays at random intervals. Its haunting tune echoes through the Master Bedroom.
+6:Mirror of Reflections:A vintage mirror with the ability to show glimpses of the past and the potential future. Beware, for not all reflections are benign.
+7:Haunting Teddy Bear:A seemingly innocent teddy bear that occasionally giggles softly on its own. Its button eyes seem to hold secrets of the room.
+10:Enchanted Faucet:A tap that drips blood-red water when activated. The temperature and flow change with the emotions of the person using it, reflecting their inner state.
+12:Spectral Cookbook:A cookbook with recipes written in an otherworldly script. When opened, the pages turn on their own, revealing recipes with ingredients not found in the mortal realm.
+14:Phantom Chess Set:A dusty chess set that moves its pieces autonomously during the night. The games played seem to mirror the mansion's history.
+16:Ethereal Perfume Bottle:A delicate perfume bottle with an otherworldly fragrance. Those who catch its scent may experience vivid dreams or haunting visions.
+17:Whispering Rifle:An antique rifle that occasionally whispers secrets of battles long past. The gun's voice grows louder when held, recounting tales of its previous owners and the mysteries it has witnessed.
